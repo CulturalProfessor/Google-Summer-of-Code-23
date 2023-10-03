@@ -1,12 +1,12 @@
 ## Google Summer of Code (GSoC'23) Final Report
 
-### Project Title : [Whiteboard Integration](https://github.com/RocketChat/Apps.Whiteboard)
+### Project Title : [Whiteboard Integration](https://github.com/RocketChat/Apps.Whiteboard) 🚀
 
-### Organization : [Rocket.Chat](https://github.com/RocketChat)
+### Organization : [Rocket.Chat](https://github.com/RocketChat) 🌟
 
-### Mentee : Vinayak Sharma 
+### Mentee : Vinayak Sharma 👨‍💻
 
-### Mentors : Shiqi Mei and Douglas Gubert
+### Mentors : Shiqi Mei 🌟 and Douglas Gubert 🌟
 
 ### Project Summary
 The Whiteboard Integration project enhances collaborative experiences in Rocket.Chat by introducing a powerful Whiteboard App. This integration facilitates real-time visual communication, making it easy for users to create and share diagrams, drawings, and more. With a user-friendly interface and features like slash commands and action buttons, users can effortlessly create and collaborate on whiteboards. The project also offers a convenient local setup guide, allowing users to deploy the app locally for testing. This integration adds a new dimension to communication within Rocket.Chat, fostering creativity and efficient collaboration.
@@ -19,7 +19,7 @@ The Whiteboard Integration project enhances collaborative experiences in Rocket.
   </a>
 </p>
 
-## Work Done
+## Work Done ✅
 #### - We can use slash commands or action buttons to start up a new whiteboard.
 #### - We can store real-time previews of our boards.
 #### - We can modify settings to edit the board name.
@@ -29,7 +29,7 @@ The Whiteboard Integration project enhances collaborative experiences in Rocket.
 ## Architecture of Whiteboard App:
 <img src="https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/1f696c03-8cf6-496e-9588-a1fdf11bf04c" width="1000px"></img>
 
-### Code Contributions
+### Code Contributions 💻
 
 <div align="center">
 
@@ -50,7 +50,7 @@ The Whiteboard Integration project enhances collaborative experiences in Rocket.
 </div>
 
 
-## Challenges Faced
+## Challenges Faced 🤔
 - <b>Iframe Inefficiency</b>: Our initial Iframe approach lacked scalability and flexibility.
 
 - <b>Webpack Transition</b>: Adapting to Webpack for bundling and serving posed technical hurdles and learning curves.
@@ -59,18 +59,18 @@ The Whiteboard Integration project enhances collaborative experiences in Rocket.
 
 - <b>External Files Storage</b>: Managing external files storage added complexity to the project's infrastructure and data handling.
 
-## Future Work
+## Future Work 🔮
 - <b>Implement Live Collaboration</b>: Enabling live collaboration is a complex task because it involves integrating Excalidraw's collaboration features, which rely on websockets. However, there's a challenge because the Rocket.Chat App's Engine currently doesn't support sockets. The future goal here is to overcome this challenge and find a way to implement live collaboration, allowing multiple users to work on a whiteboard simultaneously and in real-time.
 
 - <b>Implement a Context Bar</b>: To enhance the usability and management of boards, the project aims to implement a Context Bar. This feature will provide a user-friendly interface for users to easily navigate and manage their boards. It could include options to switch between different boards, organize and categorize boards, and access board-specific settings. The goal is to make the user experience more intuitive and efficient when working with multiple whiteboards.
 
-## Acknowledgments
+## Acknowledgments 🙌
 
 #### Mentors
 
 -    <b>Shiqi Mei</b> 🚀: Your mentorship and expertise were instrumental in shaping this project. Your guidance steered me through challenges and inspired creative solutions.
 
--    <b>Douglas Gubert</b>: Your mentorship and dedication to this project were truly remarkable. Your insights and feedback were invaluable in driving progress.
+-    <b>Douglas Gubert</b>🚀: Your mentorship and dedication to this project were truly remarkable. Your insights and feedback were invaluable in driving progress.
 
 -    <b>Rocket.Chat</b> 🚀: I am grateful to Rocket.Chat for providing me with the opportunity to work on this project. Your commitment to open source and community-driven development is commendable.
 
@@ -89,11 +89,10 @@ The Whiteboard Integration project enhances collaborative experiences in Rocket.
 This GSoC journey wouldn't have been possible without the support and encouragement of these individuals and organizations. Thank you all for making this a truly enriching experience.
 
   
-### Connect with Us
+### Connect with Us 🌐
 
 | Mentee: Vinayak Sharma        | Mentor: Shiqi Mei          | Mentor: Douglas Gubert   |
 | ----------------------------- | -------------------------- | ------------------------- |
 | <img src="https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/7f62da47-5470-4349-8b4b-e7d448d2aadc" width="400px"> | <img src="https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/90aae87f-f67c-4387-aa37-2468bb5124e0" width="400px"> | <img src="https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/5a73b147-4f47-4e13-b1e2-a7cfaafad134" width="400px"> |
 | [LinkedIn](https://www.linkedin.com/in/vinayak-sharma-308071225/) | [LinkedIn](https://www.linkedin.com/in/shiqimei/) | [LinkedIn](https://www.linkedin.com/in/douglas-gubert-66798127/) |
 | [GitHub](https://github.com/CulturalProfessor) | [GitHub](https://github.com/shiqimei) | [GitHub](https://github.com/d-gubert) |
-
