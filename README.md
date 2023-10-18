@@ -20,20 +20,20 @@ The Whiteboard Integration project enhances collaborative experiences in Rocket.
 </p>
 
 ## Work Done ✅
-#### - We can use slash commands or action buttons to start up a new whiteboard.
-[www_screencapture_com_2023-10-18_22_30.webm](https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/6cb788c7-3f3d-475b-b59d-76154a74f18d)
+### - We can use slash commands or action buttons to start up a new whiteboard.
+ [Screencast from 18-10-23 10:43:12 PM IST.webm](https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/1f1304e9-d751-4dce-91f8-f42c3e06c458)
 
 #### - We can store real-time previews of our boards.
-[www_screencapture_com_2023-10-18_22_33.webm](https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/0965c870-cf64-4e92-9025-6074875e2f67)
-
-#### - We can modify settings to edit the board name.
-[www_screencapture_com_2023-10-18_22_36.webm](https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/a038b439-8a7b-4eea-810a-0f42a930f339)
+[Screencast from 18-10-23 10:46:02 PM IST.webm](https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/994aa494-4fb9-4541-af24-7b154c3fa3d1)
 
 #### - We can store external files like images in our records.
-[www_screencapture_com_2023-10-18_22_38.webm](https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/b261a1ea-7bbf-4bba-bdb2-90a6dacbecae)
+[Screencast from 18-10-23 10:47:17 PM IST.webm](https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/884034b0-20ef-4ae7-b778-6dc60abb122c)
+
+#### - We can modify settings to edit the board name.
+[Screencast from 18-10-23 11:05:30 PM IST.webm](https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/e412c362-98c4-4fb6-94af-0ced6dd2d35b)
 
 #### - We can modify the permission system to make the board public/private.
-[www_screencapture_com_2023-10-18_22_38(1).webm](https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/5c440b01-de0b-484a-97c2-53b80bb3e483)
+[Screencast from 18-10-23 11:08:36 PM IST.webm](https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/7c332c2d-4c0c-4d04-bab1-834ab0d72da9)
 
 
 ## Architecture of Whiteboard App:
