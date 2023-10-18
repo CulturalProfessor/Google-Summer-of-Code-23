@@ -1,4 +1,5 @@
 ## Google Summer of Code (GSoC'23) Final Report
+![report-logo](https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/2e307fe2-28ac-45f1-9eee-147854d4988b)
 
 ### GSoC Program Link : [Whiteboard Integration](https://summerofcode.withgoogle.com/programs/2023/projects/vPtpf3oN) 👨‍💻
 
