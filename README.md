@@ -1,6 +1,8 @@
 ## Google Summer of Code (GSoC'23) Final Report
 
-### Project Title : [Whiteboard Integration](https://github.com/RocketChat/Apps.Whiteboard) 🚀
+### GSoC Program Link : [Whiteboard Integration](https://summerofcode.withgoogle.com/programs/2023/projects/vPtpf3oN) 👨‍💻
+
+### Github Repo : [Whiteboard App](https://github.com/RocketChat/Apps.Whiteboard) 🚀
 
 ### Organization : [Rocket.Chat](https://github.com/RocketChat) 🌟
 
