@@ -11,7 +11,7 @@
 ### Project Summary
 The Whiteboard Integration project enhances collaborative experiences in Rocket.Chat by introducing a powerful Whiteboard App. This integration facilitates real-time visual communication, making it easy for users to create and share diagrams, drawings, and more. With a user-friendly interface and features like slash commands and action buttons, users can effortlessly create and collaborate on whiteboards. The project also offers a convenient local setup guide, allowing users to deploy the app locally for testing. This integration adds a new dimension to communication within Rocket.Chat, fostering creativity and efficient collaboration.
 
-## Live Demo at GSoC 2023 Demo Day
+## Live Demo at GSoC 2023 Demo Day 🚀
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Z1mx4Of5UjE&t=17s&ab_channel=Rocket.Chat">
@@ -21,10 +21,20 @@ The Whiteboard Integration project enhances collaborative experiences in Rocket.
 
 ## Work Done ✅
 #### - We can use slash commands or action buttons to start up a new whiteboard.
+[www_screencapture_com_2023-10-18_22_30.webm](https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/6cb788c7-3f3d-475b-b59d-76154a74f18d)
+
 #### - We can store real-time previews of our boards.
+[www_screencapture_com_2023-10-18_22_33.webm](https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/0965c870-cf64-4e92-9025-6074875e2f67)
+
 #### - We can modify settings to edit the board name.
-#### - We can modify the permission system to make the board public/private.
+[www_screencapture_com_2023-10-18_22_36.webm](https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/a038b439-8a7b-4eea-810a-0f42a930f339)
+
 #### - We can store external files like images in our records.
+[www_screencapture_com_2023-10-18_22_38.webm](https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/b261a1ea-7bbf-4bba-bdb2-90a6dacbecae)
+
+#### - We can modify the permission system to make the board public/private.
+[www_screencapture_com_2023-10-18_22_38(1).webm](https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/5c440b01-de0b-484a-97c2-53b80bb3e483)
+
 
 ## Architecture of Whiteboard App:
 <img src="https://github.com/CulturalProfessor/Google-Summer-of-Code-23/assets/92238941/1f696c03-8cf6-496e-9588-a1fdf11bf04c" width="1000px"></img>
